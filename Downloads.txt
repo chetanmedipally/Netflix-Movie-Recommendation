@@ -1,0 +1,17 @@
+C:\Users\mchetankumar\OneDrive - Deloitte (O365D)\Completed Assignments\Netflix\combined_data_1.txt
+C:\Users\mchetankumar\OneDrive - Deloitte (O365D)\Completed Assignments\Netflix\combined_data_1.zip
+C:\Users\mchetankumar\OneDrive - Deloitte (O365D)\Completed Assignments\Netflix\combined_data_2.txt
+C:\Users\mchetankumar\OneDrive - Deloitte (O365D)\Completed Assignments\Netflix\combined_data_2.zip
+C:\Users\mchetankumar\OneDrive - Deloitte (O365D)\Completed Assignments\Netflix\combined_data_3.txt
+C:\Users\mchetankumar\OneDrive - Deloitte (O365D)\Completed Assignments\Netflix\combined_data_3.zip
+C:\Users\mchetankumar\OneDrive - Deloitte (O365D)\Completed Assignments\Netflix\combined_data_4.txt
+C:\Users\mchetankumar\OneDrive - Deloitte (O365D)\Completed Assignments\Netflix\combined_data_4.zip
+C:\Users\mchetankumar\OneDrive - Deloitte (O365D)\Completed Assignments\Netflix\data.csv
+C:\Users\mchetankumar\OneDrive - Deloitte (O365D)\Completed Assignments\Netflix\m_m_sim_sparse.npz
+C:\Users\mchetankumar\OneDrive - Deloitte (O365D)\Completed Assignments\Netflix\reg_test.csv
+C:\Users\mchetankumar\OneDrive - Deloitte (O365D)\Completed Assignments\Netflix\reg_train.csv
+C:\Users\mchetankumar\OneDrive - Deloitte (O365D)\Completed Assignments\Netflix\test.csv
+C:\Users\mchetankumar\OneDrive - Deloitte (O365D)\Completed Assignments\Netflix\test_sparse_matrix.npz
+C:\Users\mchetankumar\OneDrive - Deloitte (O365D)\Completed Assignments\Netflix\train.csv
+C:\Users\mchetankumar\OneDrive - Deloitte (O365D)\Completed Assignments\Netflix\train_sparse_matrix.npz
+C:\Users\mchetankumar\OneDrive - Deloitte (O365D)\Completed Assignments\Netflix\trunc_sparse_matrix.npz
